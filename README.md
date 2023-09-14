@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashufulz
+- 👋 Hi, I’m glad you checked me out!
 - 👀 I’m interested in Machine Learning and Computer Vision technologies
-- 🌱 I’m currently learning more on Data Science techniques
-- 💞️ I’m looking to collaborate on anything interestingly exciting.
-- 📫 How to reach me? ...Just email me
+- 🌱 Constantly learning more on Data Science techniques
+- 💞️ Looking to collaborate on anything interestingly exciting.
+- 📫 Just drop an email to connect.
 
 <!---
 ashufulz/ashufulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
